@@ -1,0 +1,26 @@
+{
+  "name": "nodetestwithbitbucket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowarjuna/nodetestwithbitbucket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wowarjuna/nodetestwithbitbucket/issues"
+  },
+  "homepage": "https://github.com/wowarjuna/nodetestwithbitbucket#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1",
+    "supertest": "^3.0.0"
+  }
+}
